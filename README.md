@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-This is a private git repository of the Payments NZ API specifications.  It is used for collaboration and development of the specifications agreed collectively by the Participants.
+This is the public git repository of the Payments NZ API specification for Payment Initiation.  It is used for collaboration and development of the specifications agreed collectively by the Participants.
 
 ## APIs
 
@@ -10,31 +10,12 @@ There is currently one API covered in the specifications here.  This is:
 
 * [Payment Initiation](payment-initiation-nz-swagger.yaml) - initiate a one-off payment in a person-to-person or person-to-merchant fashion
 
-## Files
+## Disclaimer
 
-The files contained in this project cover:
+* The API standards are published for information only and Payments NZ does not make any warranty or representation regarding the API standards, including warranties as to description, merchantability, that the API Standards will be free from defects, or otherwise fit for purpose.
 
-* Swagger 2.0 YAML formatted API specifications of
-  * Payment API
-* [Changelogs](payment-initiation-nz-changelog.md) of NZ APIs recording human-friendly notes of API changes
-* [Response code defintions and descriptions](payment-initiation-nz-response-codes.md)
-* Other files as required
+* These API standards are read only.
 
-## Upstream API Reference
+* Once the API standards service is open, interested API providers and third parties can apply to become a registered standards user.
 
-This project has been derived from the [Open Banking UK read/write API specification](https://www.openbanking.org.uk/read-write-apis/)
-
-## Contributors
-
-The main contributors are:
-
-* ANZ
-* Westpac
-* BNZ
-* ASB
-* Merco
-* Paymark
-
-## License
-
-License is yet to be formally agreed.  Visit [here](https://www.paymentsnz.co.nz/contact-us) for further information.
+* Only registered standards users will be able to enter into bilateral arrangements using these standards.
